@@ -1,0 +1,1 @@
+When calling mco, we should not sudo if the calling user is the same as the one defined in :puppet_user.
